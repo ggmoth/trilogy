@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "0e5d213393fe205d",
+    "type": "split",
+    "children": [
+      {
+        "id": "27c1b30d8b74b720",
+        "type": "split",
+        "dimension": 28.104335047759,
+        "children": [
+          {
+            "id": "d188e40b5348911f",
+            "type": "leaf",
+            "dimension": 71.43911439114392,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Westarmes Divide/Westarmes Divide.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dda15fa6e8a702d2",
+            "type": "leaf",
+            "dimension": 28.560885608856093,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Westarmes Divide/The Fifth City/The Fifth City.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "921b2d3c619e2260",
+        "type": "split",
+        "dimension": 28.87582659808964,
+        "children": [
+          {
+            "id": "918a80fb4035b261",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Organizations/Religious/Accenalore/Sects/Rodaulism.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "89712291c4e2a6fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "History/Eras/Beginning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "1855e2450f2ed4a7",
+        "type": "leaf",
+        "dimension": 43.01983835415136,
+        "pinned": true,
+        "state": {
+          "type": "graph",
+          "state": {},
+          "pinned": true
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6ef15a62864bae40",
+    "type": "split",
+    "children": [
+      {
+        "id": "fab837acde3d3c4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9dfe00394bfcb9ee",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9628b01568ac5189",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 358
+  },
+  "right": {
+    "id": "ef76c2cbdf9d939d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c845144097707797",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "275d987c34256d0a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "History/Eras/Beginning.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "89712291c4e2a6fa",
+  "lastOpenFiles": [
+    "History/Eras/Current Era.md",
+    "History/Eras/Beginning.md",
+    "People/Characters.md",
+    "Organizations/Executive Council.md",
+    "Organizations/The Corps.md",
+    "Organizations/Scouts.md",
+    "Organizations/Religious/Accenalore/Sects/Euphyses.md",
+    "Organizations/Republic Trade Organization.md",
+    "History/Eras.md",
+    "Organizations/Religious/Accenalore/Sects/Dictives.md"
+  ]
+}
